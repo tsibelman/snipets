@@ -6,6 +6,7 @@ using System.Web.Http;
 namespace TestingWebProjectFramework.Controllers
 {
     /// <summary>
+    /// https://msdn.microsoft.com/en-us/magazine/jj991977.aspx
     /// https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
     /// https://www.microsoft.com/en-us/download/details.aspx?id=58210
     /// </summary>
